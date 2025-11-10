@@ -5,3 +5,6 @@
 2) Developing visualizations in matplotlib and seaborn to uncover historical NFL game data trends over 25 seasons
 3) Building XGBoost models to forecast NFL game matchups weekly for the 2025-2026 season
 4) Evaluating model performance and analyzing which football metrics impact team performance
+
+THe **NFL Pick 'Em Workshop FINAL notebook** contains the completed code
+The **NFL Pick 'EM Workshop FINAL student notebook** allows students to complete the notebook while referencing the completed code
